@@ -2,7 +2,7 @@
 
 **Name:** Maham Asif
 **Program:** PhD in Data Science
-**Semester:** [Enter Your Semester]
+**Semester:** 1st
 **University:** University of the Punjab
 **City:** Lahore, Pakistan
 
@@ -190,7 +190,7 @@ These quotations reflect my view that learning technology is not only about writ
 
 The following image represents the relationship between data, programming, machine learning, and artificial intelligence.
 
-![Data Science and Artificial Intelligence](https://upload.wikimedia.org/wikipedia/commons/0/05/Artificial_Intelligence_3.jpg)
+![Data Science and Artificial Intelligence](https://commons.wikimedia.org/wiki/Special:FilePath/Data_science_in_the_era_of_artificial_intelligence.jpg)
 
 *Figure: An illustration related to Artificial Intelligence.*
 
